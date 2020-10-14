@@ -1,0 +1,12 @@
+{
+  "name": "Coffe",
+  "version": "1.0.0",
+  "description": "rewriting of code written on coffee cup",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
