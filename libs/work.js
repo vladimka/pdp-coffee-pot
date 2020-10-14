@@ -1,6 +1,6 @@
 class Work{
 	constructor(){
-		this.tasks = Math.floor(Math.random()*100);
+		this.tasks = 5;
 	}
 
 	hasWork(){
